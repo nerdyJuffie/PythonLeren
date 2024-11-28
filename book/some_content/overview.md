@@ -6,7 +6,7 @@ In deze cursus programmeren in Python leer je de basisbeginselen van programmere
 
 ## opbouw van de cursus
 <br>
-1. Variabelen declareren, toekennen en printen<br>
+1. [Variabelen declareren, toekennen en printen](hoofdstuk1.md)<br>
 2. User input, rekenen met variabelen<br>
 3. Eenvoudig "leren rekenen" programma maken<br>
 4. Strings en hun functies<br>
