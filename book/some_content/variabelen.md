@@ -7,18 +7,18 @@ Een variabele kun je voorstellen als een pizzadoos met een opschrift wat voor pi
 
 ```{figure} ../figures/legePizzaDoos.jpeg
 ---
-width: 50%
+width: 75%
 align: right
 ---
 ```
 
 Net als een pizzadoos maar 1 pizza kan bevatten, kan een variabele maar 1 ding van een soort bevatten:
-- integer: geheel getal
-- float/ double: een kommagetal
-- char: een karakter
-- string: een stuk tekst
-- boolean: true of false
-- array: een geordende lijst
+- **integer**: geheel getal
+- **float/ double**: een kommagetal
+- **char**: een karakter
+- **string**: een stuk tekst
+- **boolean**: true of false
+- **array**: een geordende lijst
 - en zo zijn er nog een paar
 
 Bij de meeste programmeertalen geldt de regel dat als een doosje een label en type inhoud heeft gekregen, dat doosje niet later iets van een ander type kan bevatten.
