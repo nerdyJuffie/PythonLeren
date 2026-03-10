@@ -1,6 +1,10 @@
-(intro)=
-# Welcome to the Template Book
 
-_Write book intro here. This is the first page the student will see when opening the url._
+# Programmeren in Python 
 
-This book can be used as a template for other books. It includes a starter package of the software developed by the TeachBooks initiative.
+'''{image} https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png
+---
+width: 80%
+align: center
+---
+<caption text> Python Logo
+'''
