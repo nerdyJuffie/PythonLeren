@@ -2,7 +2,7 @@
 # Programmeren in Python 
 
 ```
-{figure} https://upload.wikimedia.org/wikipedia/commons/a/ad/Lozingle_10032014.jpg
+{figure} figures/python_logo.jpeg
 ---
 width: 80%
 align: center
