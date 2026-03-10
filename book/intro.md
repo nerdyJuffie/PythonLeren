@@ -9,3 +9,5 @@ align: center
 ---
 <caption text>
 ```
+
+Iedereen kan programmeren!
